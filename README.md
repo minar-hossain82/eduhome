@@ -4,7 +4,7 @@ EduHome is a modern and responsive education landing page designed to showcase o
 
 ## 🌐 Live Demo
 
-🔗 https://your-live-demo-link.vercel.app/
+🔗 https://minar-eduhome.vercel.app/
 
 ## 📂 GitHub Repository
 
@@ -40,7 +40,7 @@ EduHome is a modern and responsive education landing page designed to showcase o
 
 ## 📁 Project Structure
 
-```text
+```
 eduhome
 │
 ├── assets
