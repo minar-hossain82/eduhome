@@ -6,10 +6,6 @@ EduHome is a modern and responsive education landing page designed to showcase o
 
 🔗 https://minar-eduhome.vercel.app/
 
-## 📂 GitHub Repository
-
-🔗 https://github.com/minar-hossain82/eduhome
-
 ## ✨ Features
 
 - 🎓 Modern education landing page
@@ -105,5 +101,4 @@ The goal of this project is to create a visually appealing and fully responsive 
 
 **Minar Hossain**
 
-- GitHub: https://github.com/minar-hossain82
 - LinkedIn: https://www.linkedin.com/in/minar-hossain-450820380
